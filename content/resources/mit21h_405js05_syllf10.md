@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 7540c518-7894-b84e-bde8-a5c820006656
 resourcetype: Document
 title: Fall 2010 Syllabus
 uid: 7c14f80a-c140-9080-832e-ada534c5850f
