@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, textbooks, and grading. An archive of syllabi from a variety of
+  different terms is also provided.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,13 +19,13 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Fall 2010, William Broadhead ([PDF]({{< baseurl >}}/resources/mit21h_405js05_syllf10))
+> Fall 2010, William Broadhead ({{% resource_link 7c14f80a-c140-9080-832e-ada534c5850f "PDF" %}})
 > 
-> Spring 2008, William Broadhead ([PDF]({{< baseurl >}}/resources/mit21h_405js05_sylls08))
+> Spring 2008, William Broadhead ({{% resource_link 38c70903-bde8-88cd-6133-b052cc7073c1 "PDF" %}})
 > 
-> Spring 2006, William Broadhead ([PDF]({{< baseurl >}}/resources/mit21h_405js05_sylls06))
+> Spring 2006, William Broadhead ({{% resource_link e1dc4fa4-37ac-66cb-f710-ce29e466e252 "PDF" %}})
 > 
-> Spring 2005, William Broadhead ([PDF]({{< baseurl >}}/resources/mit21h_405js05_sylls05))
+> Spring 2005, William Broadhead ({{% resource_link cec87adf-dfbc-190c-df7b-6bdc261e24f4 "PDF" %}})
 
 Description
 -----------

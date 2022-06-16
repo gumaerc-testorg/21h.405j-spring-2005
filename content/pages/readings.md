@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides citations for the course textbooks and the readings
+  assigned for each lecture session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
