@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides descriptions of the two major assignments for the
+  course, a group project and a research paper.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 9eeed84a-73aa-e3a1-2f56-68dbaefd1bdd
 ---
